@@ -36,17 +36,17 @@ Adaptação da solução a necessidades específicas do cliente, com enfoque em 
 
 #### Empresas 1-10 Funcionarios
 
-1 Mês Grátis + R$57,90/mês 
+**1 Mês Grátis + R$57,90/mês**
 
 
 #### Empesas 11-100 Funcionários
 
-1 Mês Grátis + R$87,90/mês 
+**1 Mês Grátis + R$87,90/mês** 
 
 #### Empesas 100-499 Funcionários
 
-1 Mês Grátis + R$147,90/mês 
+**1 Mês Grátis + R$147,90/mês**
 
 #### Empesas 500+ Funcionários
 
-1 Mês Grátis + R$327,90/mês 
+**1 Mês Grátis + R$327,90/mês**
