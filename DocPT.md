@@ -3,7 +3,7 @@
 ## Canvas de Proposta de Valor
 Canvas Proposta de Valor da nossa solução:
 <div align="center">
-<img src="canvas-valor.jpeg">
+<img src="canvas-valor.png">
 </div>
 
 ## Primeiro Modelo:
