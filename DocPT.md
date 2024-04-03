@@ -10,11 +10,11 @@ Canvas Proposta de Valor da nossa solução:
 
 ### Venda do Produto Base
 
-Iremos vender o jogo como produto inicial que conta com um treinamento sólido em contratação de fornecedores diversos, possibilitando a empresa a
+Iremos vender o jogo como produto inicial que conta com um treinamento sólido em contratação de fornecedores diversos, possibilitando que empresas tenham acesso ao nosso produto.
 
 ## Assinatura para Recursos adicionais personalizados
 
-Serviço de assinatura no qual a empresa contratante assina um valor mensal para receber atualizações constantes de novas funcionalidades e possibilidade de personalização.
+Ademais, ofereceremos um serviço de assinatura no qual a empresa contratante assina um valor mensal para receber atualizações constantes de novas funcionalidades e possibilidade de personalização.
 
 ### Teste gratuito
 
