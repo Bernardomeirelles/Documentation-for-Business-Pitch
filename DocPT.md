@@ -1,13 +1,12 @@
 # Plano de Monetização Cometa
 
 ## Canvas de Proposta de Valor
+Canvas Proposta de Valor da nossa solução:
+<div align="center">
+<img src="canvas-valor.jpeg">
+</div>
 
-
-
-
-
-
-### Primeiro Modelo:
+## Primeiro Modelo:
 
 ### Venda do Produto Base
 
