@@ -1,5 +1,12 @@
 # Plano de Monetização Cometa
 
+## Canvas de Proposta de Valor
+
+
+
+
+
+
 ### Primeiro Modelo:
 
 ### Venda do Produto Base
