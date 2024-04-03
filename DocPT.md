@@ -18,7 +18,7 @@ Ademais, ofereceremos um serviço de assinatura no qual a empresa contratante as
 
 ### Teste gratuito
 
-O cliente possui um período de teste gratuito para constatar se a solução atende suas necessidades
+O cliente possui um período de teste gratuito para constatar se a solução atende suas necessidades.
 
 ### Assinatura
 
